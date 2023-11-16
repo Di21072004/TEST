@@ -6,7 +6,7 @@ package javaapplication81;
 
 /**
  *
- * @author ADMIN
+ * @author ĐIIĐIIIĐIIDIIĐI
  */
 public class CC {
     
